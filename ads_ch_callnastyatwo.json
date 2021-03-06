@@ -16,7 +16,12 @@
     "fb_inter": "",
     "fb_banner_main": "",
     "fb_inter_main": "",
-    "fb_native_banner": ""
+    "fb_native_banner": "",
+    "c_id":"app71f58be6ad5f44e4ad",
+    "c_banner_setting":"vz885b6357c9314cb2b0",
+    "c_banner_main":"vz419fe8390ad8454989",
+    "c_inter_main":"vzb2ae8fa1a3574f1180",
+    "c_inter_setting":"vzff60fe9a77334507ae"
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
