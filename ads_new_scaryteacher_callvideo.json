@@ -19,7 +19,7 @@
     "fb_native_banner": ""
   },
   "app_exists": {
-    "id": "com.scaryHDvideo.videocall.scary"
+    "id": "com.scaryHDvideo.videocall.scary",
     "is_exists": false,
     "is_show_more": true,
     "isLoading": false,
